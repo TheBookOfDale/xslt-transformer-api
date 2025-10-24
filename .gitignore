@@ -1,0 +1,7 @@
+# Maven
+target/
+*.log
+
+# Gradle (cleanup)
+build/
+.gradle/
